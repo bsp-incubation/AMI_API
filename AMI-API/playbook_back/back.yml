@@ -4,6 +4,5 @@
     - common
     - jdk8
     - maven
-    - iptables
     - codeDeploy
     
